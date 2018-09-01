@@ -2,7 +2,7 @@ import pickle
 import os
 
 name="twitter_variation"
-version="0.0.1"
+version="1.0"
 author="Shubhanshu Sharma"
 
 english_variation_file_path = os.path.join(os.path.dirname(__file__),'variation_to_english_dict.pickle')
